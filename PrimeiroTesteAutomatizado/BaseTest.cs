@@ -24,7 +24,7 @@ namespace PrimeiroTesteAutomatizado
         {
             driver = new ChromeDriver();
             //ChromeOptions options = new ChromeOptions();
-            //options.AddArgument("headless");
+            //options.AddArgument("headless")hghjghjg;
             //driver = new ChromeDriver(options);
             driver.Manage().Window.Maximize();
         }
